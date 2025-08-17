@@ -1,5 +1,3 @@
-# finance-strategy
-
 # SMA Strategy Backtest 📈
 
 This repository contains a Jupyter Notebook (`Finance.ipynb`) that tests a **Simple Moving Average (SMA) long-bias strategy** on selected U.S. stocks.  
